@@ -48,6 +48,10 @@ To use **Calm Mind**, follow these steps:
    - Upgrade to premium via the profile screen to unlock advanced features.  
    - Restore purchases if you've already subscribed.
 
+
+
+## License
+
 MIT License
 
 Copyright (c) 2025 yossuf yahia
