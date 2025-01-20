@@ -1,0 +1,66 @@
+{
+  "new_custom_action.dart": {
+    "old_identifier_name": "newCustomAction",
+    "new_identifier_name": "newCustomAction",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "bf43d924dec6d22cb8c34644d70aec95f5d7fbf7ac29b33bef9ad90410d6136b",
+    "original_checksum": "bf43d924dec6d22cb8c34644d70aec95f5d7fbf7ac29b33bef9ad90410d6136b"
+  },
+  "supa_row_to_conversations.dart": {
+    "old_identifier_name": "supaRowToConversations",
+    "new_identifier_name": "supaRowToConversations",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "7571861b2386284fda7039b042119ecee0106a6d384d5fc521c7289b4d2d6892",
+    "original_checksum": "7571861b2386284fda7039b042119ecee0106a6d384d5fc521c7289b4d2d6892"
+  },
+  "create_payment_intent.dart": {
+    "old_identifier_name": "createPaymentIntent",
+    "new_identifier_name": "createPaymentIntent",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "e7ac0a6d220f7d231af986252d7501e8c73420d829ead418b27c13c222846754",
+    "original_checksum": "e7ac0a6d220f7d231af986252d7501e8c73420d829ead418b27c13c222846754"
+  },
+  "intiate_stripe.dart": {
+    "old_identifier_name": "intiateStripe",
+    "new_identifier_name": "intiateStripe",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "0942838b5dcc863675617e21ffd206c1423abacd7beb4d2477a9e8a007053c62",
+    "original_checksum": "0942838b5dcc863675617e21ffd206c1423abacd7beb4d2477a9e8a007053c62"
+  },
+  "handle_payment.dart": {
+    "old_identifier_name": "handlePayment",
+    "new_identifier_name": "handlePayment",
+    "type": "A",
+    "is_deleted": false,
+    "current_checksum": "07b23e8e1cfdce183e2c80693b7e934ec6e5393cbc4c9d0ead5c4b7fb413dfb7",
+    "original_checksum": "07b23e8e1cfdce183e2c80693b7e934ec6e5393cbc4c9d0ead5c4b7fb413dfb7"
+  },
+  "new_custom_widget.dart": {
+    "old_identifier_name": "NewCustomWidget",
+    "new_identifier_name": "NewCustomWidget",
+    "type": "W",
+    "is_deleted": false,
+    "current_checksum": "08150c3c9fd4386a6b3e17c916c7bea58fbb35f5dcaa3b755c06326a7d922302",
+    "original_checksum": "08150c3c9fd4386a6b3e17c916c7bea58fbb35f5dcaa3b755c06326a7d922302"
+  },
+  "custom_functions.dart": {
+    "old_identifier_name": "CustomFunctions",
+    "new_identifier_name": "CustomFunctions",
+    "type": "F",
+    "is_deleted": false,
+    "current_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08",
+    "original_checksum": "415688756283460139fa2817ca006943c32a3ceb940e28ef903ca9cef86a1b08"
+  },
+  "pubspec.yaml": {
+    "old_identifier_name": "pubspec.yaml",
+    "new_identifier_name": "pubspec.yaml",
+    "type": "D",
+    "is_deleted": false,
+    "current_checksum": "9e5e36abbe9447c85e362b220ff217f1915bd7c28d847d7af596b6f8ddad0994",
+    "original_checksum": "9e5e36abbe9447c85e362b220ff217f1915bd7c28d847d7af596b6f8ddad0994"
+  }
+}
